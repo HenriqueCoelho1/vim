@@ -1,0 +1,15 @@
+{
+    "languageserver": {
+
+    },
+    "explorer.width": 30,
+    "explorer.icon.enableNerdfont": true,
+    "explorer.previewAction.onHover": false,
+    "explorer.keyMappings.global": {
+        "<cr>": ["expandable?", "expand", "open"],
+        "v": "open:vsplit",
+        "h": "open:split"
+    },
+    "coc.preferences.formatOnSaveFiletypes": ["css", "javascript", "typescript", "javascriptreact", "markdown"],
+    "explorer.git.enable": true
+}
